@@ -216,10 +216,26 @@
 			
 	}
 
-	
+	print "<br>--rcs-- start debug<br>";	
+
+	define('ROOT_DIR', dirname(dirname(__file__)) . '/');	
+	echo "ROOT_DIR:  " . ROOT_DIR . "<br>";
+
+	echo "file_get about.txt ./:<br>";
+	$file1 = file_get_contents('./fp-content/content/static/about.txt', FILE_USE_INCLUDE_PATH);
+	echo $file1 . "<br>";
+
+	$filex = `date '+%Y.%m.%d.%H.%M.%S'`;
+	echo $filex . "<br>";
+	echo "tar fp-latest.tgz:<br>";
+	$filex = `rm ./fp-latest.tgz`;
+	$filex = `tar -zcvf ./fp-latest.tgz .`;
+	echo "<br>";
+
+	print "<br>--rcs-- stop debug<br>";	
+
 	system_init();
 	index_display();
-	
 
 	
 ?>
