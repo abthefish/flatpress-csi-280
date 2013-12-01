@@ -1,4 +1,15 @@
-VERSION|fp-1.0.2|SUBJECT|Welcome to FlatPress!|CONTENT|-mod- This is a sample entry, posted to show you some of the features of [url=http://www.flatpress.org]FlatPress[/url].
+VERSION|fp-1.0.2|SUBJECT|Welcome to FlatPress-csi-280!|CONTENT|This version of [url=http://www.flatpress.org]FlatPress[/url] is modified to create a self archive file-- fp-latest.tgz-- on each main screen refresh.  The purpose of the mod is to allow a remote host to repeatedly pull the archive at some time interval.  Creating and pulling the archive makes it possible to run this blog on a host with a non-persistent file system, such as [url=http://www.appfog.com]AppFog[/url]. Without a persistent file system, updates to the blog would be lost if/when the virtual host is reset.
+
+Example remote pull code every hour:
+[code]
+while [ 1 ]; do
+date '+%Y.%m.%d.%H.%M.%S'
+curl flatpress-csi-280.aws.af.cm/fp-latest.tgz > fp-latest-`date '+%Y.%m.%d.%H.%M.%S'`.tgz
+sleep 3600
+done
+[/code]
+
+[url=http://www.flatpress.org]FlatPress[/url] is FOSS licensed under GNUv2.
 
 The more tag allows you to create a "jump" between an excerpt and the complete article.
 

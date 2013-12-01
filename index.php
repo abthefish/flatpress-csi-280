@@ -216,26 +216,28 @@
 			
 	}
 
-	print "<br>--rcs-- start debug<br>";	
+/* some items for debugging */
+// --rcs--	print "<br>--rcs-- start debug<br>";	
+// --rcs--	define('ROOT_DIR', dirname(dirname(__file__)) . '/');	
+// --rcs--	echo "ROOT_DIR:  " . ROOT_DIR . "<br>";
+// --rcs--	echo "file_get about.txt ./:<br>";
+// --rcs--	$file1 = file_get_contents('./fp-content/content/static/about.txt', FILE_USE_INCLUDE_PATH);
+// --rcs--	echo $file1 . "<br>";
 
-	define('ROOT_DIR', dirname(dirname(__file__)) . '/');	
-	echo "ROOT_DIR:  " . ROOT_DIR . "<br>";
-
-	echo "file_get about.txt ./:<br>";
-	$file1 = file_get_contents('./fp-content/content/static/about.txt', FILE_USE_INCLUDE_PATH);
-	echo $file1 . "<br>";
-
-	$filex = `date '+%Y.%m.%d.%H.%M.%S'`;
-	echo $filex . "<br>";
-	echo "tar fp-latest.tgz:<br>";
+/* create an arcive of the latest code/data on each homescreen refresh */
+// --rcs--	echo "tar fp-latest.tgz:<br>";
 	$filex = `rm ./fp-latest.tgz`;
 	$filex = `tar -zcvf ./fp-latest.tgz .`;
-	echo "<br>";
 
-	print "<br>--rcs-- stop debug<br>";	
+// --rcs--	echo "<br>";
+// --rcs--	print "<br>--rcs-- stop debug<br>";	
 
 	system_init();
 	index_display();
+
+/* --rcs-- timestamp bottom of page */
+	$filex = `date '+%Y.%m.%d.%H.%M.%S'`;
+	echo $filex . "<br>";
 
 	
 ?>
