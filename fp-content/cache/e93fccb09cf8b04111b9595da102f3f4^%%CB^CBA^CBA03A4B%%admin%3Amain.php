@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2013-11-30 19:17:40
+<?php /* Smarty version 2.6.26, created on 2013-12-03 13:44:09
          compiled from admin:main/ */ ?>
 <h2><?php echo $this->_tpl_vars['panelstrings']['head']; ?>
 </h2>

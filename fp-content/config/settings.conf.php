@@ -4,8 +4,8 @@ $fp_config = array (
   'general' => 
   array (
     'www' => 'http://flatpress-csi-280.aws.af.cm',
-    'title' => 'flatpress-csi-280',
-    'subtitle' => 'flat file php blogger with archive',
+    'title' => 'CSI-280-51 Open Source Software Development',
+    'subtitle' => 'Powered by Flatpress with persistence mod on AppFog virtual servers',
     'footer' => '',
     'author' => 'schuler',
     'email' => 'lnx01btv2013@gmail.com',

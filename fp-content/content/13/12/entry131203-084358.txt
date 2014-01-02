@@ -1,0 +1,313 @@
+VERSION|fp-1.0.2|SUBJECT|Course Information (PRELIMINARY)|CONTENT|[b]CSI 280 51: Open Source Software Development[/b]
+Ray Schuler, rschuler@champlain.edu
+Spring 2014: Course Syllabus					           
+Foster 202, January 6, 2014
+
+[b]Textbook:[/b]
+
+"Introduction to Free Software" 
+(Free Technology Academy - http://ftacademy.org)
+
+[b]Logistics:[/b]
+
+Class will meet Wednesday's, 5:30pm to 8:15pm, in Foster 202.
+Please communicate with me via email (rschuler@champlain.edu).  Office hours
+may be arranged by appointment.
+
+[b]Course Description:[/b]
+
+Students will explore the history, philosophy, mechanics, and practices of the open source movement. Students will research some of the most prevalent and cutting-edge open source technologies, and gain experience working with the tools and techniques used in open source software development. In addition, students are required to participate in an open source project.
+
+Prereq: CSI 140 – Introduction to Programming or with permission from the Dean
+
+Credit Hours: 3
+
+[more]
+
+[b]Course Objectives:[/b]
+At the completion of this course, students will be able to:
+1. Differentiate between different forms of software licenses
+2. Compare and contrast key points of intellectual property law
+3. Describe viable open source business models
+4. Describe software process including software lifecycle models
+5. Effectively manage communication among in-class and virtual team members while 
+develop software in the open source collaborative environment
+6. Manage software development project activities such as planning, control, organization, risk
+management, etc.
+7. Develop requirements analysis, definition, specification and review, and software requirement
+document
+8. Develop a verification and validation plan for an application including designation of types of
+testing and reviews
+9. Document aspects of a commercial application including code, system, and user
+ documentation
+
+[b]Lectures:[/b]
+Each topic is spread across 2-3 weeks.
+
+ Lectures Part 1 - Free Software Introduction and History
+ Lectures Part 2 - FOSS Licensing and Legal Issues
+ Lectures Part 3 - The FOSS Economy
+ Lectures Part 4 - Free Software Engineering
+ Lectures Part 5 - Project Collaboration
+
+[b]Project List:[/b]
+
+ Project #1 (due week 2) - Top 10 FOSS Projects and their Licenses
+ Project #2 (due week 3) - Install a FOSS VM and OS
+ Project #3 (due week 4) - Install a FOSS blogging engine
+ Project #4 (due week 5) - Build a a FOSS Web Filter
+ Project #5 (due week 8) - Build and Modify Mozilla Firefox
+  (Week 9 - spring recess)
+ Project #6 (due week 11) - Install Git and Register with github.com
+ Project #7 (due week 15) - Select, Fix, and Submit a Real Correction to
+   	      	   	      Mozilla Firefox
+
+[b]Grading:[/b]
+20% Participation - this includes your blog
+30% Quizes  - open blog (*)
+60% Projects - must be thoroughly documented
+
+Total 100%
+
+(*) Must be a browser UI into blog running on a web server installed
+on the local OS.  All pieces-- from browser to tool chain to OS-- must
+be FOSS licensed, downloaded, compiled-- where applicable--, installed,
+and maintained by the student with logs available in the blog
+for verification of compliance.)
+
+Assignments and objectives may change based on the interest and capabilities of the class.  Any changes will be discussed in class and posted on the class website.
+
+Letter Grade Distribution:
+>=93% A
+>=90 && <93 A-
+>=87 && <90 B+
+>=83 && <87 B
+>=80 && <83 B-
+>=77 && <80 C+
+>=73 && <77 C
+>=70 && <73 C-
+>=67 && <70 D+
+>=63 && <67 D
+>=60 && <63 D-
+<60 F
+
+[b]Class Policies:[/b]
+- Each class will be roughly 50% lecture, and 50% project work.
+- Late assignments are accepted with written agreement (email) from me accepting your submission date. 
+  No grade penalty for the first reschedule, 50% off possible grade for each additional reschedule.  
+  (penalty counter reset to zero with each new assignment.)  Submit the reschedule request with your reason  
+   at least 48 hours prior to the original due date.
+- You may also request permission to make up missed quizzes.  Make up quizzes will be taken during
+   project time, and will be more complex than the original quiz.
+- Any assignment may be substituted with a significantly more challenging project that meets the stated 
+  objectives.  Receive written permission to substitute within one week of the standard assignment start
+  date.
+
+[b]Requirements:[/b]
+- Maintain a FOSS blog running locally on a (VM or native) FOSS OS, available every class.
+- Use only FOSS software tools throughout the course. 
+   (including screen shots, networking tools, image manipulation, etc...)
+- Create a static blog entry listing all the software you use in this course
+  with detailed license information.  (screen shots, URL's, etc...)
+- Keep track of all your grades. It is your responsibility to make sure they are correct and to make the
+  instructor aware of any error in the grade book.
+- All questions regarding any graded work must be brought to the attention of your professor within one
+  week of when the work was returned.
+
+[b]Attendance:[/b]
+
+Students are always responsible for announcements and assignments made in class. If an absence is unavoidable it is the student's responsibility to obtain missing information.  I will not hand out class notes.  It is acceptable to ask fellow students for lecture notes and assignment details, but requesting or sharing the resulting project content will result in a zero for that project.
+
+
+[b]Academic Integrity and Classroom Behavior:[/b]
+
+"In the preparation and presentation of any assigned work-including examinations, tests, quizzes, term papers, reports, themes and other written or oral exercises-every student shall conform to a strict standard of academic honesty.  Any attempt to deceive a faculty member or to help another student to do so will be considered a violation of this standard.  In all assignments, students must acknowledge the words and/or ideas of others taken from print or electronic media, whether a direct quotation or a paraphrase; any omission of this is dishonest.  Cheating on examinations or tests consists of knowingly giving, receiving or using-or attempting to give, receive or use-unauthorized assistance during an examination or test.  A faculty member may record a grade of “zero” for any assignment on which a student has plagiarized or cheated.  For repeat offenses within a single course, the faculty member may record a grade of “F” for the course.  Violations of this policy in multiple courses may result in dismissal from the College.  A student may appeal these decisions according to the Academic Grievance Procedure."
+
+Class during an Extended Campus Policy:
+Champlain College is taking precautionary measures to ensure that this class can continue in a
+“virtual environment” even during an extended emergency such as severe weather, contagious
+disease, physical infrastructure failure, campus closure, or similar incident. This course will continue either online through a college-provided learning management system (Angel), or through some other process unless canceled.
+
+In the event of such an emergency, students are expected to continue instructor-designated class
+activities, as directed by the instructor. Due to the nature of the “virtual environment” learning
+activities may differ slightly from the on-campus course. In order for this emergency preparedness plan to be effective, you are asked to do the following:
+
+Immediately
+● Ensure that you will have a computer and broadband Internet access at the location (home or
+   other) in which you will reside during an extended campus closure.
+● Prepare yourself with the basic skills of logging into Angel via the my.champlain.edu  
+  dashboard, finding your course(s) and entering them.
+● Participate in a “warm up” online activity in the “virtual environment” when directed to do so
+    by your instructor.
+
+
+During an Emergency
+● Test your broadband Internet access immediately upon arriving at your chosen residence during
+    the campus closure.
+● Log into Angel and enter your courses.
+● Check for emergency information on Champlain College main website (www.Champlain.edu)
+    which will indicate the semester week and day on which college classes will resume online
+● Enter your class and go to the appropriate week of class where you will receive directions from
+    your instructor.
+
+[b]Disability Policy:[/b]
+If you believe that you have a disability requiring accommodations in this class, please contact 
+one of the Coordinators of Support Services for Students with Disabilities as soon as possible. After you receive a letter documenting the appropriate accommodations, please see me so I can work with you to implement them in a timely fashion. It is the student’s responsibility to seek and secure accommodations prior to the start of a test or project.
+
+Disability Contacts: 
+Skip Harris, Counselor and ADA / 504 Coordinator
+Office: Skiff Hall 100
+Phone: (802) 651 5961
+Email: sharris@champlain.edu
+
+Denise Myers, Counselor and Coordinator of Services for Students with Disabilities
+Office: Skiff Hall 100
+Phone: (802) 865 5484
+Email: dmyers@champlain.edu
+
+
+[b]Projects in Detail:[/b]
+
+// Project #1 (due week 2) - Top 10 FOSS Projects and their Licenses
+
+  Objectives: Research and analyze FOSS projects.  Develop an awareness
+              for FOSS licensing.  
+
+  List top 10 OS programs and the License they use.
+  Write a summary stating the criteria you used to rank
+  the projects.  List the sources you used to back up your ranking.
+  For the top 5 projects on your list, provide links and instructions 
+  to obtain the source code and other relevant project materials.
+
+  At this point, it is not necessary to go into great detail on 
+  what the FOSS license specifies.  This assignment may be submitted
+  as email, and transferred to your blog once its up and running.
+
+  Note: ohloh.net lists 'most popular', and 'most active' projects
+
+// Project #2 (due week 3) - Install a FOSS VM and OS
+
+  Objectives: Install, configure, and maintain a modern FOSS OS.
+              Document a complex process for potential users.
+
+          Use only FOSS tools to:
+	  Install Linux Mint (or a FOSS equivalent) on 
+	  the VirtualBox VM (or an FOSS equivalent).
+	  This will be your FOSS system for the semester.
+
+          Submit a detailed log of all tools used, and steps completed.
+          This assignment may be submitted as email, and transferred to your 
+          blog once its up and running.
+
+	  Hints:
+	    Don't skimp on virtual disk size.  Future projects, specifically
+   	    building Mozilla Firefox, will be very large.  Do some research
+	    to determine how much disk space you will need to build 
+	    Firefox and plan accordingly.  Re-installing your VM can
+	    sometimes be easier than expanding your virtual file system!
+
+// Project #3 (due week 4) - Install a FOSS bloging engine
+
+  Objectives: Select and Install a locally running instance of a modern 
+                     FOSS documentation tool.  Create an installation guide for non-experts.
+
+	Before installing your blog, you must install a LAMPP stack.
+
+          	Use FOSS tools to Download, build (if necessary), and install 
+          	a FOSS blogging package on your FOSS system.  Create a detailed 
+	blog entry of your work.  Why did you choose "ACME Blogger"?  How 
+	and where did you download the source?  How is the software
+ 	licensed?  How can your data be backed up and restored
+	in the event of system failure?  How did you install the LAMPP
+ 	stack?
+
+
+
+
+
+
+	Your selected blog must support entries with markdown, 
+	or WYSIWYG editing, as well as embedded images and 
+	viewer comments.
+
+	  Transfer your submitted work from Projects #1 and #2 to 
+	  entries in your blog.  Begin using your blog to store
+ 	  your lecture notes-- quizzes are open blog.
+
+	  Some options:
+	  Wordpress -> php + mysql or sqlite
+	  MediaWiki -> php + mysql or sqlite
+	  Flatpress -> php 
+	  Ghost -> node.js
+	  many many other options!
+
+
+// Project #4 (due week 5) - Build  a FOSS Web Filter
+
+  Objectives: Use GNU tools to build and install a relatively simple 
+              FOSS package written in C
+
+	  Use FOSS tools to Download, Compile, and Install Privoxy 
+	  web proxy (or equivalent) on your FOSS system.
+	  Do not make or install this as root-- explain how you 
+	  accomplished this.  Document our work in a blog entry
+	  with procedures, discussion, and screen shots.      
+
+// Project #5 (due week 8) - Build and Modify Mozilla Firefox
+
+  Objectives: Use GNU tools to build and install a complex FOSS package 
+  	      written in C.  Learn how to contribute to a sophisticated
+	      FOSS project.
+
+	  Compile and install Mozilla Firefox from sources.  Make some 
+          visible change to Firefox in your own sandbox.  Understanding
+	  the Mozilla bug/issue reporting system.
+	  Document the process in your blog with discussion and
+	  screen shots.
+
+  Hints:
+  - start looking for projects where YOU can contribute
+
+// Week 9 - spring recess
+
+// Project #6 (due week 11) - Install Git and Register with github.com
+
+  Objectives: Use a modern FOSS VCS.  Learn to develop code following
+              a sustainable workflow.
+
+	  Install git VCS on your FOSS system.  Create a public user account
+	  on github.com. Clone an existing FOSS project into your own
+	  space.  Following the tutorial of your choice, use git and github
+	  to track and version changes your forked project.
+
+
+
+
+
+	  Your code changes need not be earth shattering, but must be
+	  significant enough to put git through its paces.  Clone,
+               commit, tag, push, checkout, etc...
+
+	  Document your workflow explaining the changes you made to 
+	  your cloned project and what each git command accomplishes.
+
+
+// Project #7 (due week 15) - Select and Fix a bug in Mozilla Firefox
+
+  Objectives: Use an established FOSS community to contribute a real
+              code fix or enhancement.
+
+	  Study community documentation to learn how to contribute to the 
+               Mozilla Firefox project.  Select an issue to be fixed or enhanced.
+	  The complexity of the issue to be solved may be tailored to your
+	  individual coding skills, but /not/ the level of your contribution
+	  to the project.
+
+	  Document the entire process from issue/bug selection, logs of
+	  irc/forum communication with other members of the project, to 
+	  the actual contribution. As always, provide detailed discussion and
+   	  screen shots of your activities in your blog.
+
+  Hints:	  
+  - https://developer.mozilla.org/en-US/docs/Introduction
+  - https://bugzilla.mozilla.org/buglist.cgi?quicksearch=kw:student-project|AUTHOR|schuler|DATE|1386060238|
